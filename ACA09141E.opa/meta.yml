@@ -1,0 +1,19 @@
+id: ACA09141E
+title: A Prayer to Chöying Dorje
+type: translation
+pechas:
+- IBB70C163
+- IB1AF7596
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:29:40.782510
+  last_modified_at: 2023-01-04 11:29:40.782517
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBB70C163/C4DC: 7FAD
+  IB1AF7596/B868: 7FAD
